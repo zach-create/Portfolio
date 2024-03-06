@@ -2,16 +2,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>A Full-Stack developer |Coding Freak</h4>
 
-- 🔭 I’m currently working on my Own knowledeg
+- 🔭 I’m currently working on my Own knowledge
 - 🌱 I’m Ian Fullstack Developer/Application Developer
 - 👯 I’m making the world better by CHATBots 
 - 💬 Ask me about Technology & Finance
 - 📫 How to reach me: anishjadhav2000@gmail.com
 - ⚡ Fun fact: Pursuing Masters in Artificial Intilligence From BTU Cottbus
 
-<a href="https://www.github.com/zach-create" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dipayansarkar47?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipayansarkar47&label=Profile%20views&color=0e75b6&style=flat" alt="dipayansarkar47" /> </p>
 
 
 <h3 align="left">Languages:</h3>
