@@ -3,11 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h4>A Full-Stack developer |Coding Freak</h4>
 
 - 🔭 I’m currently working on my Own knowledge
-- 🌱 I’m Ian Fullstack Developer/Application Developer
+- 🌱 I’m an Fullstack Developer/Application Developer
 - 👯 I’m making the world better by CHATBots 
 - 💬 Ask me about Technology & Finance
 - 📫 How to reach me: anishjadhav2000@gmail.com
-- ⚡ Fun fact: Pursuing Masters in Artificial Intilligence From BTU Cottbus
+- ⚡ Fun fact: Pursuing Masters in Artificial Intelligence From BTU Cottbus
 
 
 
