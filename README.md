@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anish Jadhav
 ======================================================================================================================================
-<h4>A Full-Stack developer |Coding Freak</h4>
+<h4>A Full-Stack developer | Coding Freak</h4>
 
 - 🔭 I’m currently working on my Own knowledge
 - 🌱 I’m an Fullstack Developer/Application Developer
