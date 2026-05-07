@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🌱 I’m an Fullstack Developer/Application Developer
 - 👯 I’m making the world better by CHATBots 
 - 💬 Ask me about Technology & AI ChatBots
-- 📫 How to reach me: anishjadhav2000@gmail.com 
+- 📫 How to reach me: anishjadhav2000@gmail.com  
 - ⚡ Fun fact: Pursuing Masters in Artificial Intelligence From BTU Cottbus
 
 
